@@ -1,5 +1,13 @@
 # workout_tracker
 
+## Account
+email - leekeiz49@gmail.com
+password - qwerty
+
+# OR
+
+You will be able to register and you will be able to log into your account after verifying your email
+
 ## Project setup
 ```
 npm install
@@ -14,11 +22,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
