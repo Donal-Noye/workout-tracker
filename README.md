@@ -1,11 +1,11 @@
 # workout_tracker
 
 ## Account
-Email - leekeiz49@gmail.com
-***
+Email - leekeiz49@gmail.com  
+
 Password - qwerty
 
-# OR
+# or
 
 You will be able to register and you will be able to log into your account after verifying your email
 
