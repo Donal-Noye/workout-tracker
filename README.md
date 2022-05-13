@@ -1,8 +1,9 @@
 # workout_tracker
 
 ## Account
-email - leekeiz49@gmail.com
-password - qwerty
+Email - leekeiz49@gmail.com
+***
+Password - qwerty
 
 # OR
 
